@@ -1,7 +1,8 @@
-# MOC 40390B Microsoft Azure for EWS Experts
+# MOC 40390B Microsoft Azure for AWS experts
 
-### Software aggiuntivo per amministrare sercvizi di Microsoft Azure.  
-Oltre al portale WEB c'è la possibilità amministrare  Microsoft Azure tramite altri programmi come: 
+### Software aggiuntivo per amministrare i servizi di Microsoft Azure
+
+Oltre al portale WEB (http://portal.azure.com) c'è la possibilità amministrare  Microsoft Azure tramite altri programmi come: 
 
  - Storage Explorer for Azure
    - https://azure.microsoft.com/en-us/features/storage-explorer
