@@ -14,8 +14,3 @@ Oltre al portale WEB c'è la possibilità amministrare  Microsoft Azure tramite 
 - `Install-PackageProvider -Name NuGet -MinimumVersion 2.8.5.201 -Force`  
 _La DLL verrà installa nella cartella: "C:\Program Files\PackageManagement\ProviderAssemblies"_
 
-
-***
-![](mpn-logo.png){:height="107px" width="226px"}
-
-<img src="mpn-logo.png" height="107">
